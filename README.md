@@ -1,6 +1,6 @@
 # dialTestBack
-BackEnd solution  
-DataBase - MySQL  
+BackEnd - PHP -> PDO  
+DataBase - MySQL
 
 auth.php - авторизация пользователя  
 connection.php - подключение к базе данных  
